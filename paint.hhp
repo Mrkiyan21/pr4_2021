@@ -1,0 +1,19 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=paint.chm
+Contents file=Table of Contents.hhc
+Default Font=@Arial Unicode MS,10,0
+Default topic=osnova.htm
+Display compile progress=No
+Index file=Index.hhk
+Language=0x419 Русский (Россия)
+Title=Довідка ПР№3
+
+
+[FILES]
+Про Paint.html
+osnova.htm
+Інтерфейс Paint.html
+
+[INFOTYPES]
+
